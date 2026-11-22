@@ -1,0 +1,127 @@
+"""Bilingual app copy. Source-language quotations are never machine-translated."""
+from __future__ import annotations
+
+TEXT = {
+ 'en': {
+  'app':'Vṛṣṭi-Vijñāna','tagline':'MONSOON INTELLIGENCE','hackathon':'IIT Indore · Sustainability Hackathon 2026',
+  'language':'Language','region':'Rainfall region','year':'Historical year','sidebar':'Explore the platform',
+  'dashboard':'Dashboard','atlas':'Monsoon Atlas','history':'Historical Analysis','models':'AI Model Lab',
+  'knowledge':'Traditional Knowledge','insights':'Insights & Reports','method':'Methodology',
+  'disclaimer':'Research prototype · Historical observations through 2016 · Not a live forecast or an official warning',
+  'hero_eyebrow':'AI FOR A SUSTAINABLE INDIA','hero_title':'Understand the monsoon. Prepare for tomorrow.',
+  'hero_desc':'Explore 146 years of regional rainfall, scientifically evaluated ML baselines, and testable hypotheses from Indian traditional knowledge.',
+  'observed':'Observed JJAS rainfall','reference':'Reference average','anomaly':'Rainfall anomaly',
+  'category':'Rainfall category','records':'Historical observations','regions':'Rainfall series','rules':'Documented rules',
+  'since':'1871–2016 · 146 years','historical':'Historical observation — not a prediction',
+  'snapshot':'Historical monsoon snapshot','regional_difference':'Regional rainfall differences',
+  'trend':'Rainfall through time','last_year':'Selected historical year','rain_unit':'Rainfall (mm)',
+  'atlas_title':'Explore India’s regional monsoon','atlas_desc':'Geographic reference view with schematic regional markers. These markers are NOT climate-zone boundaries or district-level measurements.',
+  'outline_notice':'Natural Earth low-resolution reference outline. Markers are representative label locations, not the extent or centroid of measured rainfall regions.',
+  'map_legend':'Marker colour indicates historical rainfall anomaly; All India is a separate overlapping summary, not a sixth geographical zone.',
+  'compare_year':'Compare with year','compare_regions':'Regional comparison','map_selected':'Selected region',
+  'from_year':'From year','to_year':'To year','rolling':'11-year descriptive mean',
+  'monthly_pattern':'Average monthly rainfall','top_dry':'Lowest historical anomalies','top_wet':'Highest historical anomalies',
+  'heatmap':'Regional anomaly heatmap','historical_filter':'Historical timeline',
+  'holdout':'Holdout evaluation: 1996–2016','model_desc':'End-of-May historical hindcasts: January–May rainfall and three preceding monsoon totals. No test-year June–September values used as features.',
+  'best_model':'Lowest observed holdout MAE','test_years':'Held-out years','forecast_cutoff':'Feature cutoff',
+  'cutoff_value':'31 May (assumed)','model_comparison':'Model performance comparison','hindcast_plot':'Observed versus historical predictions',
+  'inspect':'Inspect a historical hindcast','chosen_model':'Evaluation method','predicted':'Predicted JJAS','actual':'Observed JJAS',
+  'model_class':'Predicted category','baseline_note':'A lower MAE is better. Historical climatology can outperform more complex machine learning.',
+  'ridge_coeff':'Standardized Ridge coefficients','ridge_note':'These coefficients show model associations, not causal effects.',
+  'missing_climate':'Not yet evaluated: climate-driver model (ENSO/IOD), astronomy-enhanced hybrid, and matched random-feature control. Numeric predictor datasets have not been supplied.',
+  'rules_intro':'Browse 49 source-derived research hypotheses. Documented does NOT mean validated.',
+  'all_categories':'All categories','all_subcategories':'All subcategories','category_filter':'Rule category','subcategory_filter':'Subcategory',
+  'search_rule':'Search criteria, result, or source','rule_selector':'Choose a traditional rule',
+  'original_source':'Original source passage (as supplied)','claimed':'Traditional claim','criteria':'Rule condition',
+  'source':'Attributed source','status':'Validation status','not_validated':'Not scientifically validated',
+  'test_plan':'How this could be tested','tek_plan':'Define an unambiguous, date-aligned numerical feature; audit the calendar convention; compare climate-only, climate+feature and random-feature controls on untouched years.',
+  'no_matches':'No matching records.','reference_warning':'Text is from the supplied rule catalogue; attributions and interpretations have not been independently authenticated.',
+  'report_title':'Historical insight & export centre','report_desc':'Generate a transparent, bilingual historical rainfall summary using your selected region and year.',
+  'year_insight':'Selected historical rainfall','interpretation':'Interpretation','impact':'Decision-support context',
+  'impact_hint':'Use the historical pattern for discussions on water preparedness and agriculture—not as a present-day forecast or crop-specific advice.',
+  'download_data':'Download selected data (CSV)','download_report':'Download summary (Markdown)','preview':'Report preview',
+  'method_title':'Science, methods & limitations','method_desc':'Every chart is traceable to the uploaded historical rainfall series and explicitly separated from future research.',
+  'methods_data':'Historical rainfall observations','methods_prep':'Quality checks & mm conversion','methods_models':'Climatology + ML baselines',
+  'methods_eval':'Time-ordered holdout evaluation','methods_hybrid':'Proposed hybrid feature ablations',
+  'limitations':'Important limitations','project_data':'Data provenance','features':'Available at assumed forecast date',
+  'classes':'Illustrative rainfall-anomaly categories','classification_notice':'±10% anomaly thresholds are demonstration categories, not official IMD drought classes.',
+  'all_india':'All India','northwest':'Northwest India','west_central':'West Central India','northeast':'Northeast India','central_northeast':'Central Northeast India','peninsular':'Peninsular India',
+  'below':'Below normal','near':'Near normal','above':'Above normal','download':'Download',
+  'year_compare':'Year-to-year observed rainfall','historic_only':'Historical observation','mean':'Reference mean',
+  'available':'Available','planned':'Research proposal only','data_gap':'Data gap','ready':'Evaluated',
+  'fact':'Key historical fact','research':'Scientific interpretation','no_live':'No 2026 forecast is produced from this 2016-ending dataset.',
+  'minimum':'Lowest','maximum':'Highest','measurement':'Data source: homogeneous regional rainfall series, supplied by the team.',
+  'years':'years','not_reported':'Not evaluated','data_download':'Export data',
+  'coef_unit':'Coefficient on standardized input (mm)','rain_2002_tip':'Reference period: 1871–1995',
+ },
+ 'hi': {
+  'app':'वृष्टि-विज्ञान','tagline':'मानसून इंटेलिजेंस','hackathon':'आईआईटी इंदौर · सस्टेनेबिलिटी हैकाथॉन 2026',
+  'language':'भाषा','region':'वर्षा क्षेत्र','year':'ऐतिहासिक वर्ष','sidebar':'प्लेटफ़ॉर्म देखें',
+  'dashboard':'डैशबोर्ड','atlas':'मानसून मानचित्र','history':'ऐतिहासिक विश्लेषण','models':'एआई मॉडल प्रयोगशाला',
+  'knowledge':'पारंपरिक ज्ञान','insights':'निष्कर्ष और रिपोर्ट','method':'कार्यप्रणाली',
+  'disclaimer':'शोध प्रोटोटाइप · 2016 तक के ऐतिहासिक अवलोकन · लाइव पूर्वानुमान या आधिकारिक चेतावनी नहीं',
+  'hero_eyebrow':'सतत भारत के लिए एआई','hero_title':'मानसून को समझें, भविष्य के लिए तैयारी करें।',
+  'hero_desc':'146 वर्षों की क्षेत्रीय वर्षा, वैज्ञानिक रूप से जाँचे गए एआई बेसलाइन मॉडल और भारतीय पारंपरिक ज्ञान की परीक्षण योग्य परिकल्पनाएँ देखें।',
+  'observed':'देखी गई जून–सितंबर वर्षा','reference':'संदर्भ औसत','anomaly':'वर्षा विचलन',
+  'category':'वर्षा श्रेणी','records':'ऐतिहासिक अवलोकन','regions':'वर्षा श्रृंखलाएँ','rules':'दर्ज नियम',
+  'since':'1871–2016 · 146 वर्ष','historical':'ऐतिहासिक अवलोकन — पूर्वानुमान नहीं',
+  'snapshot':'ऐतिहासिक मानसून की झलक','regional_difference':'क्षेत्रीय वर्षा में अंतर',
+  'trend':'वर्षों में वर्षा का रुझान','last_year':'चुना गया ऐतिहासिक वर्ष','rain_unit':'वर्षा (मिमी)',
+  'atlas_title':'भारत में क्षेत्रीय मानसून देखें','atlas_desc':'नक्शे पर क्षेत्रीय संकेतक केवल संदर्भ के लिए हैं। वे वर्षा-क्षेत्र की सीमाएँ या जिलास्तरीय माप नहीं हैं।',
+  'outline_notice':'कम रिज़ॉल्यूशन वाला संदर्भ मानचित्र (Natural Earth)। संकेतक प्रतिनिधि स्थान हैं, मापित क्षेत्र का विस्तार या केंद्र नहीं।',
+  'map_legend':'संकेतक का रंग ऐतिहासिक वर्षा विचलन दिखाता है। अखिल भारत अन्य क्षेत्रों को समाहित करने वाला अलग सारांश है।',
+  'compare_year':'इस वर्ष से तुलना करें','compare_regions':'क्षेत्रीय तुलना','map_selected':'चुना गया क्षेत्र',
+  'from_year':'शुरू वर्ष','to_year':'अंतिम वर्ष','rolling':'11-वर्षीय विवरणात्मक औसत',
+  'monthly_pattern':'मासिक वर्षा का औसत','top_dry':'सबसे कम ऐतिहासिक विचलन','top_wet':'सबसे अधिक ऐतिहासिक विचलन',
+  'heatmap':'क्षेत्रीय वर्षा विचलन हीटमैप','historical_filter':'ऐतिहासिक समयरेखा',
+  'holdout':'अलग रखे गए वर्षों का परीक्षण: 1996–2016','model_desc':'मई के अंत तक उपलब्ध जानकारी पर ऐतिहासिक अनुमान: जनवरी–मई वर्षा और पिछले तीन मानसून कुल। उसी वर्ष की जून–सितंबर वर्षा मॉडल इनपुट नहीं है।',
+  'best_model':'सबसे कम परीक्षण MAE','test_years':'परीक्षण के वर्ष','forecast_cutoff':'इनपुट की अंतिम तिथि',
+  'cutoff_value':'31 मई (मान्य धारणा)','model_comparison':'मॉडल प्रदर्शन तुलना','hindcast_plot':'वास्तविक और ऐतिहासिक अनुमान',
+  'inspect':'एक ऐतिहासिक अनुमान देखें','chosen_model':'परीक्षण विधि','predicted':'अनुमानित जून–सितंबर वर्षा','actual':'वास्तविक जून–सितंबर वर्षा',
+  'model_class':'अनुमानित श्रेणी','baseline_note':'कम MAE बेहतर है। ऐतिहासिक औसत कभी-कभी जटिल मशीन लर्निंग से बेहतर होता है।',
+  'ridge_coeff':'मानकीकृत Ridge गुणांक','ridge_note':'ये मॉडल में संबंध दिखाते हैं, कारण-परिणाम नहीं।',
+  'missing_climate':'अभी परीक्षण नहीं हुए: ENSO/IOD जलवायु मॉडल, खगोलीय संकेतकों वाला हाइब्रिड मॉडल और यादृच्छिक फ़ीचर कंट्रोल। आवश्यक संख्यात्मक डेटा उपलब्ध नहीं है।',
+  'rules_intro':'स्रोतों से लिए गए 49 शोध-परिकल्पना नियम देखें। दस्तावेज़ में दर्ज होना वैज्ञानिक प्रमाण नहीं है।',
+  'all_categories':'सभी श्रेणियाँ','all_subcategories':'सभी उपश्रेणियाँ','category_filter':'नियम श्रेणी','subcategory_filter':'उपश्रेणी',
+  'search_rule':'शर्त, परिणाम या स्रोत खोजें','rule_selector':'पारंपरिक नियम चुनें',
+  'original_source':'मूल स्रोत का पाठ (जैसा दिया गया)','claimed':'पारंपरिक दावा','criteria':'नियम की शर्त',
+  'source':'बताया गया स्रोत','status':'जाँच की स्थिति','not_validated':'वैज्ञानिक पुष्टि नहीं हुई',
+  'test_plan':'इसका वैज्ञानिक परीक्षण कैसे होगा','tek_plan':'स्पष्ट, तिथि-संगत संख्यात्मक फ़ीचर तैयार करें; पंचांग की गणना जाँचें; और जलवायु, हाइब्रिड एवं रैंडम कंट्रोल का भविष्य-रहित परीक्षण करें।',
+  'no_matches':'कोई मिलान नहीं मिला।','reference_warning':'नियमों का पाठ दी गई CSV से लिया गया है; स्रोतों और व्याख्याओं की स्वतंत्र पुष्टि नहीं हुई है।',
+  'report_title':'ऐतिहासिक निष्कर्ष और रिपोर्ट','report_desc':'चुने हुए वर्ष और क्षेत्र की पारदर्शी, द्विभाषी ऐतिहासिक वर्षा रिपोर्ट तैयार करें।',
+  'year_insight':'चुनी हुई ऐतिहासिक वर्षा','interpretation':'व्याख्या','impact':'निर्णय-सहायता संदर्भ',
+  'impact_hint':'ऐतिहासिक रुझानों को जल-तैयारी और कृषि चर्चा के लिए देखें; इसे वर्तमान पूर्वानुमान या विशेष फसल सलाह न मानें।',
+  'download_data':'चुना हुआ डेटा डाउनलोड करें (CSV)','download_report':'सारांश डाउनलोड करें (Markdown)','preview':'रिपोर्ट का पूर्वावलोकन',
+  'method_title':'विज्ञान, पद्धति और सीमाएँ','method_desc':'प्रत्येक चार्ट अपलोड किए गए ऐतिहासिक डेटा पर आधारित है; भविष्य के शोध को अलग दिखाया गया है।',
+  'methods_data':'ऐतिहासिक वर्षा अवलोकन','methods_prep':'डेटा की जाँच और मिमी रूपांतरण','methods_models':'जलवायु औसत और एमएल बेसलाइन',
+  'methods_eval':'समय-क्रम के अनुसार अलग परीक्षण','methods_hybrid':'प्रस्तावित हाइब्रिड एब्लेशन परीक्षण',
+  'limitations':'महत्वपूर्ण सीमाएँ','project_data':'डेटा का स्रोत','features':'अनुमानित पूर्वानुमान तिथि तक उपलब्ध',
+  'classes':'वर्षा विचलन की उदाहरणार्थ श्रेणियाँ','classification_notice':'±10% की श्रेणियाँ केवल प्रदर्शन के लिए हैं; ये आधिकारिक IMD सूखा श्रेणियाँ नहीं हैं।',
+  'all_india':'अखिल भारत','northwest':'उत्तर-पश्चिम भारत','west_central':'पश्चिम-मध्य भारत','northeast':'पूर्वोत्तर भारत','central_northeast':'मध्य-पूर्वोत्तर भारत','peninsular':'प्रायद्वीपीय भारत',
+  'below':'सामान्य से कम','near':'सामान्य के आसपास','above':'सामान्य से अधिक','download':'डाउनलोड',
+  'year_compare':'वर्षों के बीच वास्तविक वर्षा','historic_only':'ऐतिहासिक अवलोकन','mean':'संदर्भ औसत',
+  'available':'उपलब्ध','planned':'केवल शोध प्रस्ताव','data_gap':'डेटा उपलब्ध नहीं','ready':'परीक्षण पूरा',
+  'fact':'प्रमुख ऐतिहासिक तथ्य','research':'वैज्ञानिक व्याख्या','no_live':'2016 तक के इस डेटा से 2026 का पूर्वानुमान नहीं बनाया गया है।',
+  'minimum':'न्यूनतम','maximum':'अधिकतम','measurement':'डेटा स्रोत: टीम द्वारा दी गई समरूप क्षेत्रीय वर्षा श्रृंखला।',
+  'years':'वर्ष','not_reported':'परीक्षण नहीं हुआ','data_download':'डेटा निर्यात करें',
+  'coef_unit':'मानकीकृत इनपुट का गुणांक (मिमी)','rain_2002_tip':'संदर्भ अवधि: 1871–1995',
+ }
+}
+
+REGION_KEY={
+ 'All India':'all_india','Northwest India':'northwest','West Central India':'west_central',
+ 'Northeast India':'northeast','Central Northeast India':'central_northeast','Peninsular India':'peninsular',
+}
+RISK_KEY={'Below normal':'below','Near normal':'near','Above normal':'above'}
+
+def t(key: str, **format_kwargs) -> str:
+    import streamlit as st
+    language=st.session_state.get('lang','en')
+    value=TEXT.get(language, TEXT['en']).get(key, TEXT['en'].get(key,key))
+    return value.format(**format_kwargs) if format_kwargs else value
+
+def region_name(region: str) -> str:
+    return t(REGION_KEY.get(region,region))
+
+def risk_name(label: str) -> str:
+    return t(RISK_KEY.get(label,label))

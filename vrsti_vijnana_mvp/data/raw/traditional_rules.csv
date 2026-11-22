@@ -1,0 +1,84 @@
+Method Category,Method Sub-Category,Criteria,Result Category,Result Sub Category,Result,Source Text,Verse,Verse Number,Extra Note
+Almanac-Calculation,Samvatsara-Phala,Sun is the Ruler,Rain Quality,Yearly Rainfall Prediction,Avarage Rainfall,Kr̥ṣiparāśara,"चित्तलार्के नृपे वृष्टिर्वृष्टिरुग्रा निशापतौ।
+वृष्टिर्मन्दा सदा भौमे चन्द्रजे वृष्टिरुत्तमा॥13॥
+",13,"Multiply the number denoting the śaka year by three and add two. Divide the result by seven (The number of the sages). The remainder indicates the ruling planet for that Saka year. The earth, Fourth from the ruling planet, means the minister planet of that year. The main ""planets"" (old concept) are listed in the following order: 1. Sun, 2. Moon, 3. Mars, 4. Mercury, 5. Jupiter, 6. Venus, 7. Saturn"
+Almanac-Calculation,Samvatsara-Phala,Moon is the Ruler,Rain Quality,Yearly Rainfall Prediction,Heavy Rain,Kr̥ṣiparāśara,"चित्तलार्के नृपे वृष्टिर्वृष्टिरुग्रा निशापतौ।
+वृष्टिर्मन्दा सदा भौमे चन्द्रजे वृष्टिरुत्तमा॥13॥",13,
+Almanac-Calculation,Samvatsara-Phala,Mars is the Ruler,Rain Quality,Yearly Rainfall Prediction,Good Rain,Kr̥ṣiparāśara,"चित्तलार्के नृपे वृष्टिर्वृष्टिरुग्रा निशापतौ।
+वृष्टिर्मन्दा सदा भौमे चन्द्रजे वृष्टिरुत्तमा॥13॥",13,
+Almanac-Calculation,Samvatsara-Phala,Jupitor is the Ruler,Rain Quality,Yearly Rainfall Prediction,Satisfactory Rain,Kr̥ṣiparāśara,"गुरौ च शोभना वृष्टिर्भार्गवे वृष्टिरुत्तमा।
+पृथिवी धूलिसम्पूर्णा वृष्टिहीना शनौ भवेत्॥14॥",14,
+Almanac-Calculation,Samvatsara-Phala,Venus is the Ruler,Rain Quality,Yearly Rainfall Prediction,Excellent Rain,Kr̥ṣiparāśara,"गुरौ च शोभना वृष्टिर्भार्गवे वृष्टिरुत्तमा।
+पृथिवी धूलिसम्पूर्णा वृष्टिहीना शनौ भवेत्॥14॥",14,
+Almanac-Calculation,Samvatsara-Phala,Saturn is the Ruler,Rain Quality,Yearly Rainfall Prediction,No Rain,Kr̥ṣiparāśara,"गुरौ च शोभना वृष्टिर्भार्गवे वृष्टिरुत्तमा।
+पृथिवी धूलिसम्पूर्णा वृष्टिहीना शनौ भवेत्॥14॥",14,
+Almanac-Calculation,Cloud Pattern,Ávarta,Rain Quality,General Prediction,Rain on Some parts not everywhere,Kr̥ṣiparāśara,"एकदेशेन चावर्तः संवर्तः सर्वतो जलम्।
+पुष्करे दुष्करं वारि द्रोणे बहुजला मही।। 25",25,"शकाब्दं वह्णिसंयुक्तं वेदभागसमाहृतम्।
+शेषं मेघं विजानीयादावर्तादि यथाक्रमम्।। 23
+By adding the number of types of fire (3) to the number denoting the Śaka Year and dividing that sum by the number of the Vedas (4), with the remainder (in this calculation), the type of cloud should be identified, as per the sequence starting from the Āvarta (listed in the next).
+आवर्तश्चैव संवर्तः पुष्करो द्रोण एव च।
+चत्वारो जलदाः प्रोक्ता आवर्तादियथाक्रमम्।। 24
+Āvarta (Cumulonimbus), Saṁvarta (Altostotrus), Puṣkara (Vortex) and Droṇa (Stratocumulous) are the four types of cloud (Jaladā), which have been said (by sages) in the sequence from Āvarta (Talked about before)."
+Almanac-Calculation,Cloud Pattern, Saṁvarta,Rain Quality,General Prediction,Rain is everywhere,Kr̥ṣiparāśara,"एकदेशेन चावर्तः संवर्तः सर्वतो जलम्।
+पुष्करे दुष्करं वारि द्रोणे बहुजला मही।। 25",25,
+Almanac-Calculation,Cloud Pattern,Puṣkara,Rain Quality,General Prediction,Rain is Scanty,Kr̥ṣiparāśara,"एकदेशेन चावर्तः संवर्तः सर्वतो जलम्।
+पुष्करे दुष्करं वारि द्रोणे बहुजला मही।। 25",25,
+Almanac-Calculation,Cloud Pattern,Droṇa ,Rain Quality,General Prediction,Gets full of Water,Kr̥ṣiparāśara,"एकदेशेन चावर्तः संवर्तः सर्वतो जलम्।
+पुष्करे दुष्करं वारि द्रोणे बहुजला मही।। 25",25,
+Astronomical,Nakṣatra-Based,Moon  enters Gemini Aris  or Taurus or the Pisces,Rain Amount,General Prediction,100 Āḍhaka of Rain,Kr̥ṣiparāśara,"युग्माजगोमत्स्यगते शशाङ्के रविर्यदा कर्कटं प्रयाति।
+जलं शताढं हरिकारमुकेर्द्धं वदन्ति कन्यामृगयोरशीतिम्।। 27",27,"When the Moon (Śaśāṅka) enters Gemini (Yugma), Aris (aja) or Taurus (Go) or the Pisces (Matsya) and the sun (Raviḥ) enters the Cancer (Karkaṭa), the rainfall (Jala) would be (of the) 100 Āḍhaka (quantity). Suppose the Sun passes through Leo (Hari) and Sagittarius (Kārmuka), it is half and when Virgo (Kanyā) or Capricornus (Mr̥ga), it is 80 (Āḍhakas)"
+Astronomical,Nakṣatra-Based,Sun enters the Cancer,Rain Amount,General Prediction,100 Āḍhaka of Rain,Kr̥ṣiparāśara,"युग्माजगोमत्स्यगते शशाङ्के रविर्यदा कर्कटं प्रयाति।
+जलं शताढं हरिकारमुकेर्द्धं वदन्ति कन्यामृगयोरशीतिम्।। 27",27,
+Astronomical,Nakṣatra-Based,Sun passes through Leo and Sagittarius,Rain Amount,General Prediction,50 Āḍhaka of Rain,Kr̥ṣiparāśara,"युग्माजगोमत्स्यगते शशाङ्के रविर्यदा कर्कटं प्रयाति।
+जलं शताढं हरिकारमुकेर्द्धं वदन्ति कन्यामृगयोरशीतिम्।। 27",27,
+Astronomical,Nakṣatra-Based,Sun passes through when Virgo or Capricornus,Rain Amount,General Prediction,80 Āḍhaka of Rain,Kr̥ṣiparāśara,"युग्माजगोमत्स्यगते शशाङ्के रविर्यदा कर्कटं प्रयाति।
+जलं शताढं हरिकारमुकेर्द्धं वदन्ति कन्यामृगयोरशीतिम्।। 27",27,
+Astronomical,Nakṣatra-Based,"Sun enters Cancer, Aquarius , Scorpio, Libra",Rain Amount,General Prediction,96 Āḍhaka of Rain,Kr̥ṣiparāśara,,,
+Observation,Wind Pattern,The wind direction is North and west in any part among 30 parts (Consists of five Daṇḍa) of the 2.5 days ,Rain Timing,Monthly Rainfall Prediction (Pauṣa),Rain in that number of days according to the same numbered Unit (2.5 D) ,Kr̥ṣiparāśara,"सार्द्धं दिनद्वयं मानं कृत्वा पौषादिना बुधः।
+गणयेन्मासिकीं वृष्टिमवृष्टिं वानिलक्रमात्।। 30
+सौम्यवारुणयोर्वृष्टिरवृष्टिः पूर्वयाम्ययोः।
+निर्वाते वृष्टिहानिः स्यात् संकुले संकुलं जलम्।। 31",30-31,"एकेकं पञ्चदण्डेन मासस्य दिवसो मतः।
+पूर्वार्द्धं वासरी वृष्टिरुत्तरार्द्धे च नैशिकी।। 32
+Ekaikaṁ (Every one part) Pañcadaṇḍena (of the five Daṇḍas) Māsasya (of a month) Divasaḥ (one day) mataḥ (considered). Pūrvārdhe (in the first half) Vāsarī-Vr̥ṣṭiḥ (Rain in the daytime) Uttarārdhe (in the second half) ca (and) Naiśikī (in the night)."
+Observation,Wind Pattern,The wind direction East and the South in any part among 30 parts (Consists of five Daṇḍa) of the 2.5 days ,Rain Amount,Monthly Rainfall Prediction (Pauṣa),Absence of Rain in that number of days according to the same numbered Unit (2.5 D) ,Kr̥ṣiparāśara,"सार्द्धं दिनद्वयं मानं कृत्वा पौषादिना बुधः।
+गणयेन्मासिकीं वृष्टिमवृष्टिं वानिलक्रमात्।। 30
+सौम्यवारुणयोर्वृष्टिरवृष्टिः पूर्वयाम्ययोः।
+निर्वाते वृष्टिहानिः स्यात् संकुले संकुलं जलम्।। 31",30-31,
+Observation,Wind Pattern,The absence of air flow in any part among 30 parts (Consists of five Daṇḍa) of the 2.5 days ,Rain Amount,Monthly Rainfall Prediction (Pauṣa),Loss of rain in that number of days according to the same numbered Unit (2.5 D) ,Kr̥ṣiparāśara,"सार्द्धं दिनद्वयं मानं कृत्वा पौषादिना बुधः।
+गणयेन्मासिकीं वृष्टिमवृष्टिं वानिलक्रमात्।। 30
+सौम्यवारुणयोर्वृष्टिरवृष्टिः पूर्वयाम्ययोः।
+निर्वाते वृष्टिहानिः स्यात् संकुले संकुलं जलम्।। 31",30-31,
+Observation,Wind Pattern,Irregularity of air flow in any part among 30 parts (Consists of five Daṇḍa) of the 2.5 days ,Rain Amount,Monthly Rainfall Prediction (Pauṣa),Irregularity of rain in that number of days according to the same numbered Unit (2.5 D) ,Kr̥ṣiparāśara,"सार्द्धं दिनद्वयं मानं कृत्वा पौषादिना बुधः।
+गणयेन्मासिकीं वृष्टिमवृष्टिं वानिलक्रमात्।। 30
+सौम्यवारुणयोर्वृष्टिरवृष्टिः पूर्वयाम्ययोः।
+निर्वाते वृष्टिहानिः स्यात् संकुले संकुलं जलम्।। 31",30-31,
+Observation,Sky Phenomenon,"Dust is seen, whitened sky and lightning on the western side of the Pauṣa bright half",Rain Type,Monthly Rainfall Prediction (Pauṣa),Flood,Kr̥ṣiparāśara,,,
+Observation,Sky Phenomenon,"Atmosphere full of dust, western direction fragmented by lightning in bright half of Pauṣa",Rain Amount,Monthly Rainfall Prediction (Pauṣa),Entire earth drenched with water,Kr̥ṣiparāśara,धूलीभिरेव धवलीकृतमन्तरिक्षंविद्युच्छटाच्छुरितवारुणदिग्विभागम् । पौषे यदा भवति मासि सिते च पक्षे तोयेन तत्र सकला प्लवते धरित्री ॥,34,
+Observation,Sky Phenomenon,Rainfall and fog occur in the month of Pauṣa,Rain Amount,Long-term Prediction,Earth inundated in the seventh month (July/August),Kr̥ṣiparāśara,पौषे मासि यदा वृष्टिः कुज्झटिर्वा यदा भवेत् । तदादौ सप्तमे मासि वारिपूर्णा भवेन्मही ॥,35,
+Observation,Sky Phenomenon,Bright half of Pauṣa sky overcast with clouds,Rain Amount,Yearly Rainfall Prediction,Earth becomes inundated in that year,Kr̥ṣiparāśara,यदा पौषे सिते पक्षे नभो मेघावृतं भवेत् । तोयावृता धरित्री च भवेत् संवत्सरे तदा ॥,36,
+Astronomical,Nakṣatra-Based,Rain in the middle of Pisces (Mīna) and Scorpio (Vr̥ṣcika),Rain Timing,Long-term Prediction,Earth drenched on same lunar day (tithi) in the seventh month,Kr̥ṣiparāśara,मीनवृश्चिकयोर्मध्ये यदि वर्षति वासवः । तदादौ सप्तमे मासि तत्तिथौ प्लवते मही ॥,37,
+Observation,Sky Phenomenon,"Stormy winds or thunder showers on 7th dark Māgha/Phālguna, 3rd bright Caitra, or 1st Vaiśākha",Crop Yield,General Prediction,"Satisfactory rain, earth yields sufficient crop",Kr̥ṣiparāśara,माघे बहुलसप्तम्यां तथैव फाल्गुनस्य च। चैत्र शुक्लतृतीयायां वैशाखे प्रथमेऽहनि ॥ एतासु चण्डवातो वा तडिद्वृष्टिरथापि वा। तदा स्याच्छोभना प्रावृड् भवेत् शस्यवती मही ॥,39-40,
+Observation,Sky Phenomenon,"7th dark Māgha (Swati yoga), high winds, rain clouds, thunder, or lightning hiding Sun/Moon/Stars",Rain Timing,General Prediction,Clouds hang low bringing rains up to end of Kārtika,Kr̥ṣiparāśara,सप्तम्यां स्वातियोगे यदि पतति जलं माधपक्षेऽन्धकारे... तावद्वर्षन्ति मेघा धरणितलगता यावदाकार्तिकान्तम् ॥,41,
+Observation,Sky Phenomenon,"Continuous sleet Māgha, cloudy winds Phālguna, overcast Caitra, hail Vaiśākha, scorching Jyeṣṭha",Rain Timing,General Prediction,Rain-god causes rainfall until Sun enters Libra,Kr̥ṣiparāśara,माघे मासि निरन्तरं यदि भवेत् प्रालेयतोयागमो... तावद्धर्षति वासवो रविरसौ यावत्तुलायां व्रजेत् ।,42,
+Astronomical,Nakṣatra-Based,"Within 5 days from 5th Phālguna, Sun in Aquarius and Rohiṇī coincidence",Rain Amount,Yearly Rainfall Prediction,"Scanty, average, profuse, to excessive respectively",Kr̥ṣiparāśara,पश्चम्यादिषु पञ्चसु कुम्मेऽर्के यदि भवति रोहिणीयोगः । अधमतमाधममध्यममहदतिमहाम्भसां निपातः ॥,43,
+Astronomical,Day-Based,1st day of bright fortnight of Caitra is Sunday / Monday,Rain Amount,Yearly Rainfall Prediction,Moderate rainfall (Sun) / Earth drenched with continuous heavy rains (Mon),Kr̥ṣiparāśara,प्रतिपदि मधुमासे भानुवारः सितायां... धरणितलमशेषं प्लाव्यते सोमवारे ॥,44,
+Astronomical,Day-Based,"1st day of bright fortnight of Caitra is Tue / Wed,Thu,Fri / Sat",Rain Amount,Yearly Rainfall Prediction,"Unsatisfactory (Tue) / Good crops & rain (Wed,Thu,Fri) / Drought & dust (Sat)",Kr̥ṣiparāśara,अवनितनयवारे वारिवृष्टिर्न सम्यग्... भवति खलु धरित्री धूलिजालैरदृश्या ॥,45,
+Astronomical,Nakṣatra-Based,1st half of Caitra in Citrā nakṣatra / 2nd half / Middle,Rain Amount,Monthly Rainfall Prediction (Caitra),Moderate rain (1st) / Little rain (2nd) / Rains a lot (Middle),Kr̥ṣiparāśara,चैत्राद्यभागे चित्रायां भवेच्च चित्तला क्षितिः । शेषे नीचैर्न वात्यर्थं क्ष्मामध्ये बहुवर्षिणी ॥,46,
+Observation,Wind Pattern,"Caitra start of Mūla and end of Yama, wind blows day and night",Rain Occurrence,General Prediction,Stars like Ārdrā considered; rain will definitely happen,Kr̥ṣiparāśara,मूलस्यादौ यमस्यान्ते चैत्रे वायुरहर्निशम् । आर्द्रादीनि च ऋक्षाणि वृष्टिहेतोर्विशोधयेत् ॥,47,
+Ritual,Water Level,Marked rod in flowing river at night on 1st day bright Vaiśākha; level same / lower / higher,Rain Amount,Yearly Rainfall Prediction,Same rain as last year / Less rain / Double rainfall respectively,Kr̥ṣiparāśara,प्रवाहयुतनद्यां तु दण्डं न्यस्य जले निशि... अङ्काधिक्ये च द्विगुणा वृष्टिर्वन्या च जायते ।,48-52,Spell 'Aum siddhi' chanted 200 times
+Astronomical,Solar Position,Sun at equinoctial point at sunrise / midday / sunset / midnight,Crop Yield,Yearly Prediction,Calamity / Loss of crops / Half harvest / Unmatched prosperity respectively,Kr̥ṣiparāśara,सूर्योदये विषुवतो जगतां विपत्तिर्मध्यं गते दिनकरे बहुशस्यहानिः । अस्तं गते दिनकरे तु तदर्द्धशस्यं ऐश्वर्यभोगमतुलं खलु चार्द्धरात्रे ॥,53,Viṣuva occurs twice (Meṣa or Tulā Samkrānti)
+Ritual & Astronomical,Diagram & Nakṣatra,Meṣasankramaṇa in Samudra / Parvata / Kakṣa / Tīra sections of ritual drawing,Rain Amount,Yearly Rainfall Prediction,Excessive rain / No rain / Moderate rain / Sufficient rain respectively,Kr̥ṣiparāśara,रेखातयं समुल्लिख्य... अतिवृष्टिः समुद्रे स्यादनावृष्टिस्तु पर्वते । कक्षयोश्चित्तला वृष्टिः सुवृष्टिस्तीरसङ्गमे ॥,54-56,Requires drawing a specific diagram and mapping nakṣatras
+Astronomical,Nakṣatra-Based,"Jyeṣṭha sky bereft of clouds during Citrā, Svāti, Viśākhā AND rains in Śrāvaṇa",Crop Yield,Yearly Prediction,Blessings in the form of a profuse yield of crops,Kr̥ṣiparāśara,चित्रास्वातीविशाखासु ज्यैष्ठमासि निरभ्रता। ... तदा संवत्सरो धन्यो बहुशस्यफलप्रदः ॥,57,
+Astronomical,Nakṣatra-Based,Rains at beginning of Jyeṣṭha bright fortnight during 10 nakṣatras starting with Ārdrā,Rain Pattern,General Prediction,"Wetland gets no rain, and dry land becomes wet",Kr̥ṣiparāśara,ज्यैष्ठादौ सितपक्षे च आर्द्रादिदशऋक्षके । सजला निर्जला यान्ति निर्जलाः सजला इव ॥,58,
+Observation,Wind Pattern,Āṣāḍha Pūrṇimā wind from East / North / Īśāṇa,Rain Quality,Monthly Rainfall Prediction (Āṣāḍha),Good Rain / Good Crop,Kr̥ṣiparāśara,आषाढ्यां पौर्णमास्यां सुरपतिककुभो वाति वातः सुवृष्टिः...,59,
+Observation,Wind Pattern,Āṣāḍha Pūrṇimā wind from Agni / South / Nairta / West,Rain Quality,Monthly Rainfall Prediction (Āṣāḍha),Destruction of Crops / Poor Rain / Reduction in crops / Rain with thunder respectively,Kr̥ṣiparāśara,...शस्यध्वंसं प्रकुर्याद्दहनदिशिगतो मन्दवृष्टिर्यमेन । नैऋत्यां शस्यहानिर्वरुणदिशि जलं...,59,
+Observation,Date-Based,It rains / does not rain on the 9th day of the bright half of Āṣāḍha,Rain Occurrence,Yearly Rainfall Prediction,Rains throughout year without fail / No hope of rain that year,Kr̥ṣiparāśara,आषाढस्य सिते पक्षे नवम्यां यदि वर्षति । वर्षत्येव तदा देवस्तमावृष्टौ कुतो जलम् ॥,60,
+Observation,Sky Phenomenon,"9th day bright Āṣāḍha: East clear, Sun round, surrounded by clouds till setting",Rain Timing,General Prediction,Clouds pour until the Sun's transition through Libra is complete,Kr̥ṣiparāśara,शुक्लाषाढ्यां नवम्यामुदयगिरितटी निर्मलत्वं प्रयाति... तावत्पर्यन्तमेव प्रगलति जलदो यावदस्त तुलायाः ॥,61,
+Astronomical,Nakṣatra-Based,Śrāvaṇa rains during Sun's transition through Rohiṇī,Rain Timing,General Prediction,Continues to rain up to 11th day of bright half of Kārtika,Kr̥ṣiparāśara,रोहिण्यां श्रावणे मासि यदि वर्षति वासवः । तदा वृष्टिर्भवेत्तावद् यावन्नोत्तिष्ठते हरिः ॥,62,
+Astronomical,Nakṣatra-Based,Does not rain in Śrāvaṇa while Sun is in Cancer (Rohiṇī),Rain Occurrence,Yearly Rainfall Prediction,"Calamity of famine, farming activity is a waste",Kr̥ṣiparāśara,कर्कटे रोहिणीऋक्षे यदि वृष्टिर्न जायते... विफलारम्भसंक्लेशास्तदा स्युः कृषिवृत्तयः ॥,63-64,
+Observation,Human Action,Expert approached with query about rain while near/holding/in water,Rain Timing,Sudden Rainfall,Rain will happen very soon,Kr̥ṣiparāśara,जलस्थो जलहस्तो वा निकटेऽथ जलस्य वा। प्रष्टा पृच्छति वृष्ट्यर्थं वृष्टिः संजायतेऽचिरात् ॥,65,
+Observation,Animal Behavior,"Ants with eggs, frogs croaking, hole-dwellers escaping freely, water birds drying wings",Rain Timing,Sudden Rainfall,Rain will start soon / definitely,Kr̥ṣiparāśara,उत्तिष्ठत्यण्डमादाय... विडाला नकुलाः सर्पा... पक्षयोः शोषणं रौद्रे...,"66-67, 70",
+Observation,Human / Animal Action,"Children building dust bridges, peacocks dancing, body pain from Vāta/injury, snakes climbing",Rain Timing,Sudden Rainfall,Indication of rain soon / definitely,Kr̥ṣiparāśara,कुर्वन्ति बालका मार्गे... आघातवातदुष्टानां...,68-69,
+Astronomical,Planet-Based,"Mars/Saturn transits, Jupiter pre-transit, planetary rise/set/crooked movements",Rain Occurrence,General Prediction,Rain happens / Earth inundated / Clouds pour down,Kr̥ṣiparāśara,चलत्यक्ङ्गारके वृष्टिध्रुवा वृष्टिः शनैश्चरे... प्रायो वर्षन्ति हि घना नृपाणामुद्यमेषु च ॥,71-72,
+Astronomical,Planet-Based,Jupiter in Citrā / Svāti; Water stored in Puṣya / Śrāvaṇa released in Svāti / Revatī,Rain Amount,General Prediction,Liquid oozing (cloud-burst) / Releases huge clouds,Kr̥ṣiparāśara,चित्रामध्यगते जीवे... पुष्येणोपचितान् मेघान् स्वातिरेका व्यपोहति...,73-74,
+Astronomical,Planet-Based,"Mangal in specific nakṣatras, Sun behind Mars, or Mangal in Leo (Siṃha)",Rain Occurrence,Famine Indication,No rain / Evaporates ocean / Turns earth into fireplace,Kr̥ṣiparāśara,ध्रुवे च वैष्णवे हस्ते... कुजपृष्ठगतो भानुः... अङ्गारको यदा सिंहे...,75-78,"Dhruva = Uttaraphālgunī, Uttarāṣāḍha, Uttarabhādrapada"

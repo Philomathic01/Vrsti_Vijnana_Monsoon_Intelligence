@@ -1,0 +1,25 @@
+                 region            model  n_test_years  mae_mm  rmse_mm  balanced_accuracy  macro_f1
+              All India      Climatology            21  63.060   82.751             0.3333    0.2667
+              All India      Persistence            21  86.681  110.579             0.2810    0.2810
+              All India         Ridge ML            21  66.336   86.775             0.3333    0.2667
+              All India Random Forest ML            21  70.008   87.767             0.3333    0.2667
+        Northwest India      Climatology            21  87.385  111.534             0.3333    0.1667
+        Northwest India      Persistence            21 121.305  148.796             0.2282    0.2282
+        Northwest India         Ridge ML            21  95.999  121.909             0.2857    0.1600
+        Northwest India Random Forest ML            21  96.560  116.507             0.3274    0.2205
+     West Central India      Climatology            21  92.906  114.728             0.3333    0.2549
+     West Central India      Persistence            21 128.529  162.318             0.2607    0.2564
+     West Central India         Ridge ML            21  94.056  115.678             0.3333    0.2549
+     West Central India Random Forest ML            21  96.585  117.594             0.3333    0.2549
+        Northeast India      Climatology            21 125.055  147.198             0.3333    0.2292
+        Northeast India      Persistence            21 138.224  163.643             0.3603    0.3598
+        Northeast India         Ridge ML            21 141.676  168.783             0.3333    0.2292
+        Northeast India Random Forest ML            21 137.090  160.387             0.3333    0.2292
+Central Northeast India      Climatology            21 111.935  137.228             0.3333    0.2424
+Central Northeast India      Persistence            21 141.467  173.385             0.3194    0.3194
+Central Northeast India         Ridge ML            21 110.908  138.916             0.3333    0.2424
+Central Northeast India Random Forest ML            21 115.704  140.108             0.3333    0.2424
+       Peninsular India      Climatology            21  84.800  104.778             0.3333    0.2000
+       Peninsular India      Persistence            21 119.024  135.324             0.1693    0.1727
+       Peninsular India         Ridge ML            21  99.230  117.106             0.2963    0.1905
+       Peninsular India Random Forest ML            21  93.826  112.598             0.3810    0.2884
